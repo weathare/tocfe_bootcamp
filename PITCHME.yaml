@@ -1,4 +1,5 @@
 theme: beige
+theme-override : assets/css/PITCHME.css
 hightlight: tomorrow-night
 slide-number: true
 footnote: "TOCfE BootCamp KANSAI ロジック・ブランチ 2017-10-28"
